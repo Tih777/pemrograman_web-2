@@ -75,7 +75,7 @@
 	
 
 					<table class="table table-bordered text-uppercase">
-						<tr class="table-info">
+						<tr class="table-info"> <p></p>
 							<th>DAFTAR HARGA</th>
 						</tr>
 						<tr>
